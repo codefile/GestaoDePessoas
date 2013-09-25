@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EnumHelper</id>
+    <version>1.0.1003</version>
+    <title>Enum Helper</title>
+    <authors>Dat Le</authors>
+    <owners>Dat Le</owners>
+    <projectUrl>https://github.com/leevox/EnumHelper</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Helper for working easier with Enum</description>
+    <summary>Helper for working easier with Enum</summary>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0">
+        <dependency id="Microsoft.AspNet.Mvc" version="4.0.20710.0" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
